@@ -1,0 +1,34 @@
+*{padding:0; margin:0; border:0; font-family:Arial, Helvetica, sans-serif;}
+@charset "utf-8";
+body {color:#333; font-size:11px; line-height:22px; background-image:url(ima/bg_footer.gif); background-repeat:repeat-x; background-position:bottom; background-color:#FFF;}
+.imageright{float: right; width:15%;}
+.imageleft{float: left; width:15%;}
+a:link, a:visited {color:#333; font-size:11px; line-height:22px; text-decoration:none;}
+a:hover, a:active {color:#000; font-size:11px; line-height:22px; text-decoration:underline;}
+#NANOWIRES{clear:both; width:100%; height:152px; background-image:url(ima/bg_header.gif); background-repeat:repeat-x; background-position:left top;}
+#NANOWIRES_top {text-align:left; height:29px; clear:both;}
+#NANOWIRES_mid {width:970px; height:123px; background-repeat:no-repeat; background-position:left top;  background-image:url(ima/bg_headermid.jpg); clear:both;}	
+#NANOTECH {padding:30px 10px 0px 0px; float:right; line-height:23px; clear:both;}
+#NANOPARTICLE {margin-top:26px; font-size:11px; float:right; clear:both;}
+#CNTs{clear:both; width:970px;}
+#CNTs_left {width:195px; height:573px; float:left; background-image:url(ima/content_left.jpg); background-repeat:no-repeat; background-position:left top;}
+#CNTs_right {width:770px; float:left; background-image:url(ima/content_right.jpg); background-repeat:no-repeat; background-position:left top;}
+#CNTs_here {margin-top:15px; padding-left:10px; font-size:11px; color:#333; text-transform:capitalize;}
+#NANOTUBES{margin:10px 0px 0px 0px; padding:0px;}
+#NANOTUBES ul {color:#FFF; list-style:none;}
+#NANOTUBES ul li {color:#FFF; color:#FFF; line-height:40px; padding-left:25px; background-repeat:no-repeat; background-position:5px center; background-image:url(ima/bg_menu.gif);}
+#NANOTUBES ul li a {color:#FFF;}
+#NANOTUBES ul li a:hover, #NANOTUBES ul li a:active {color:#FF0; text-decoration:underline;}
+#SWNTs{margin:10px auto; width:99%; background-image:url(ima/bg_pagebox.gif); background-repeat:no-repeat; background-position:left top;}
+#SWNTs h1,h2,h3{color:#039; font-size:19px; padding:20px 0px 0px 50px;}
+#MWCNTs {clear:both; padding-top:110px;  vertical-align:bottom; background-image:url(ima/footer.gif); background-repeat:no-repeat; background-position:250px bottom;}
+#MWCNTs #GRAPHENES { color: #00F; text-align:left; margin-left:39px; padding-top:35px;}
+#MWCNTs #GRAPHENES a:link, #MWCNTs #GRAPHENES a:visited {color: #00F;}
+.datalist{border:1px solid #007108; font-family:Arial; border-collapse:collapse; background-color:#99ccff; font-size:14px;} 
+.datalist th{border:1px solid #007108; background-color:#333366; color:#FFF; font-weight:bold;padding-top:4px; padding-bottom:4px; padding-left:12px; padding-right:12px; text-align:center;} 
+.datalist td{ border:1px solid #007108; text-align:left; padding-top:4px; padding-bottom:4px; 
+padding-left:10px; padding-right:10px; } 
+.datalist tr.altrow{ background-color:#ccc;} 
+#NANO{border: 1px #333 solid;font: 10px arial;width:500px}
+table caption {font-size: 20px; line-height:20px; color:white; background-color:#777;}
+#target{border: 1px #333 solid;font: 10px arial;width:500px}
